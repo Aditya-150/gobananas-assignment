@@ -5,7 +5,7 @@ You must build a single-page application that fetches data from a public API and
 
 ## Technologies Used
 
-- [Vite](https://nextjs.org/docs/getting-started)
+- [Vite](https://vitejs.dev/)
 - [Material UI v6](https://next.mui.com/material-ui/getting-started/)
 - [React v18.2](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
